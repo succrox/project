@@ -8,7 +8,7 @@ MAGENT = (154, 13, 105)
 
 
 font = pygame.font.Font(None, 30)
-text = font.render("SINGLE LINKED LIST", True, MAGENT)
+text = font.render("SINGLE LINKED LIST", True, BLACK)
 
 #Definir dimensiones de la pantalla
 size = (900, 600)
